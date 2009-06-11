@@ -1,7 +1,7 @@
 ---
 abstract: 'GoogleMap plugin'
 author:
-  - 'Alex Vandiver'
+  - 'Alex Vandiver <alexmv@bestpractical.com>'
 build_requires:
   ExtUtils::MakeMaker: 6.11
 distribution_type: module
@@ -21,4 +21,4 @@ requires:
   Jifty: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.9
+version: 1.00

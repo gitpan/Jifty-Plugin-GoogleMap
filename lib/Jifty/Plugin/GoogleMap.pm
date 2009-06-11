@@ -4,7 +4,7 @@ use warnings;
 package Jifty::Plugin::GoogleMap;
 use base qw/Jifty::Plugin Class::Accessor::Fast/;
 
-our $VERSION = '0.9';
+our $VERSION = '1.00';
 
 =head1 NAME
 
@@ -75,11 +75,11 @@ Jifty::DBI::Schema->register_types(
 
 =head1 AUTHOR
 
-Alex Vandiver
+Alex Vandiver <alexmv@bestpractical.com>
 
 =head1 LICENSE
 
-Copyright 2005-2009 Best Practical Solutions, LLC.
+Copyright 2005-2009, Best Practical Solutions, LLC.
 
 This program is free software and may be modified and distributed under the same terms as Perl itself.
 
